@@ -7,7 +7,7 @@ This app that I created is made for the intent purpose of displaying a fun histo
 ![Screenshot 2025-05-24 054736](https://github.com/user-attachments/assets/512474b2-ec06-47ad-9d04-ce8d2c0b30d6)
 ![Screenshot 2025-05-24 054712](https://github.com/user-attachments/assets/ff5f98b4-e003-4d77-81d2-f5a9483e0703)
 
-# YouTube Link
+## YouTube Link
 
-# Resporitory Link
+## Resporitory Link
 My Github:https://github.com/St10476939/History-Flashcards.git
