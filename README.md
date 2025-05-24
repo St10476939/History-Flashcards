@@ -9,5 +9,5 @@ This app that I created is made for the intent purpose of displaying a fun histo
 
 # YouTube Link
 
-# Respotory Link
-https://github.com/St10476939/History-Flashcards.git
+# Resporitory Link
+My Github:https://github.com/St10476939/History-Flashcards.git
